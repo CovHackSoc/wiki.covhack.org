@@ -10,17 +10,29 @@ Welcome to CovHack! We hope you build some great projects this weekend! Here is 
 * Toiletries
 * Hardware (BRING YOUR DANCEMAT!)
 
+### What to expect?
+
+Hacks normally run like so:
+
+* Opening ceremony with logistics information, etc
+* Team building if you want a team and don't already have one
+* 24 Hours of building a unique and wacky project
+* Demoing it to everyone
+* Prizes!
+
 ## Submissions
 
-Please upload your submissions to the devpost, available here:
+### Devpost
 
-https://covhack19.devpost.com/
+We're using Devpost to manage project submissions, which is available here:
+
+<a href="https://covhack19.devpost.com/">https://covhack19.devpost.com/</a>
 
 Please do not start projects before 12:00 on the Saturday! You can have ideas beforehand, but don't write any code!
 
-## Judging
+### Judging
 
-## Prizes
+### Prizes
 
 ## Schedule
 
