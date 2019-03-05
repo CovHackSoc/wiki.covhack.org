@@ -7,7 +7,7 @@ We meet every Tuesday in EC1-02 at 6pm-8pm.
 ## Useful Pages
 
 * <a href="/firsttime/">Guides for First time hackathon goers!</a>
-* <a href="/projects/">Active Projects</a>
+* <a href="/docs/projects.md/">Active Projects</a>
 
 ## Contact
 
