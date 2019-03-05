@@ -20,6 +20,21 @@ Hacks normally run like so:
 * Demoing it to everyone
 * Prizes!
 
+### What do I build?
+
+Hackathons are a great place to learn new technology! So we highly recomend picking up a new language or tool you aren't
+familar with!
+
+Hardware projects are awesome and you will always get mad props for doing one!
+
+We keep an ideas list at <a href="https://ideas.covhack.org/">https://ideas.covhack.org/</a>
+
+Regarding how much you should be able to get done:
+
+* As a rule of thumb, you aren't going to get anything more done that what you'd be able to do in two normal work days.
+* Beowulf has found they manage to write ~300 lines of code for most of their hackathon projects (more for web dev, less
+for more technical projects). You'll be throwing away a lot of code so nice to keep this in mind.
+
 ## Submissions
 
 ### Devpost
@@ -78,7 +93,7 @@ We are running a small CTF, Werewolf and some workshops to help you make the mos
 
 ### Discord
 
-We're using Discord for communication during the event!
+We're using Discord for communication during the event! You can use it ask for help
 
 #### Bot
 
@@ -134,7 +149,7 @@ If you would like to report a violation, please talk one of the organisers in pe
 ## Team
 
 Name          | Discord Username
-------------- | -----------------------
+------------- | ------------------------
 Beowulf Horn  | @LightbulbHackingExpert
 James Vickery | @jmsv
 Callum Lacey  | @Callum
