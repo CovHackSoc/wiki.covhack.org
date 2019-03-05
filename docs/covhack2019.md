@@ -2,6 +2,8 @@
 
 Welcome to CovHack! We hope you build some great projects this weekend! Here is all you (probably) need to know!
 
+If something isn't listed here, feel free to ask us in the `#questions` channel on Discord!
+
 ## First Hackathon?
 
 ### What to Bring?
@@ -93,11 +95,12 @@ We are running a small CTF, Werewolf and some workshops to help you make the mos
 
 ### Discord
 
-We're using Discord for communication during the event! You can use it ask for help
+We're using Discord for communication during the event! You can use it ask for help with your project, post memes, etc.
 
 #### Bot
 
 We have a handy bot called `Susan Inc Haylie TSR Vel Vickery`! They have many handy features like:
+
 * Adding ideas to ideas.covhack.org! (`!idea YOUR IDEA HERE`)
 * Cat pictures! (`!cat`)
 * Shibe pictures! (`!shibe`)
@@ -123,7 +126,7 @@ We are arranging support for connecting IoT devices the do not support WPA2-Ente
 
 #### Student Developer Pack
 
-We highly recomend you get the <a href="https://education.github.com/pack">GitHub student developer pack!</a> if you
+We highly recomend you get the <a href="https://education.github.com/pack">GitHub student developer pack</a> if you
 haven't already. It includes $50 of free DigitalOcean credits for new users!
 
 ## Photos
