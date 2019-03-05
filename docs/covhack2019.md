@@ -64,11 +64,13 @@ Time  | Activity
 
 We are running a small CTF, Werewolf and some workshops to help you make the most of the event!
 
-## Discord
+## Communications
+
+### Discord
 
 We're using Discord for communication during the event!
 
-### Bot
+#### Bot
 
 We have a handy bot called `Susan Inc Haylie TSR Vel Vickery`! They have many handy features like:
 * Adding ideas to ideas.covhack.org! (`!idea YOUR IDEA HERE`)
@@ -76,7 +78,13 @@ We have a handy bot called `Susan Inc Haylie TSR Vel Vickery`! They have many ha
 * Shibe pictures! (`!shibe`)
 * Advice (`!advice`)
 
-Source is avaliable here [1]
+Source is available <a href="https://github.com/CovHackSoc/IdeaBot">here.</a>
+
+### Social Media
+
+We're using the hashtag <a href="https://twitter.com/search?q=%23covhack19">#covhack19</a> for the event!
+
+Our events Twitter is <a href="https://twitter.com/covhack">@CovHack</a>
 
 ## Technical
 
@@ -85,6 +93,12 @@ Source is avaliable here [1]
 Please use `eduroam` or any of the `PHOENIX-NET-*` if you can!
 
 We are arranging support for connecting IoT devices the do not support WPA2-Enterprise.
+
+## Photos
+
+We'll be taking photos throughout the event.
+
+Please do ask permission when taking photos!
 
 ## Health and Safety
 
@@ -95,7 +109,7 @@ We are arranging support for connecting IoT devices the do not support WPA2-Ente
 
 ## Code of Conduct
 
-We are following the Hack Code of Conduct [2].
+We are following the <a href="https://hackcodeofconduct.org/">Hack Code of Conduct.</a>
 
 If you would like to report a violation, please talk one of the organisers in person, over discord
 (@Organisers group), or via our email `hello@covhack.org`.
@@ -110,8 +124,3 @@ Callum Lacey  | @Callum
 Jonny Marsh   | @Jaunt
 Joshua D-K    | @HoopyFrood
 Tom Atkins    | @Banana Milk
-
-## References
-
-* [1] https://github.com/CovHackSoc/IdeaBot
-* [2] https://hackcodeofconduct.org/
