@@ -52,6 +52,21 @@ Time  | Activity
 
 We are running a small CTF, Werewolf and some workshops to help you make the most of the event!
 
+
+## Discord
+
+We're using Discord for communication during the event!
+
+### Bot
+
+We have a handy bot called `Susan Inc Haylie TSR Vel Vickery`! They have many handy features like:
+* Adding ideas to ideas.covhack.org! (`!idea YOUR IDEA HERE`)
+* Cat pictures! (`!cat`)
+* Shibe pictures! (`!shibe`)
+* Advice (`!advice`)
+
+Source is avaliable here [1]
+
 ## Health and Safety
 
 * Please let us know if you have a medical condition that we need to be aware of!
@@ -61,7 +76,7 @@ We are running a small CTF, Werewolf and some workshops to help you make the mos
 
 ## Code of Conduct
 
-We are following the Hack Code of Conduct [1].
+We are following the Hack Code of Conduct [2].
 
 If you would like to report a violation, please talk one of the organisers in person, over discord
 (@Organisers group), or via our email `hello@covhack.org`.
@@ -79,4 +94,5 @@ Tom Atkins    | @Banana Milk
 
 ## References
 
-* [1] https://hackcodeofconduct.org/
+* [1] https://github.com/CovHackSoc/IdeaBot
+* [2] https://hackcodeofconduct.org/
