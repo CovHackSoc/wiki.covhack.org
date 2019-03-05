@@ -34,6 +34,16 @@ Please do not start projects before 12:00 on the Saturday! You can have ideas be
 
 ### Prizes
 
+#### First / Second / Third
+
+#### "Jeoffrey" Prize for Hacker Spirit
+
+Build a robot out of Pizza boxes at 4am because your previous plan fell apart? Then this prize is for you!
+
+#### "Phoenix" Prize for Best Beginner Hack
+
+Prize for teams comprised of 50% Beginners which create a great project!
+
 ## Schedule
 
 Our schedule is the following (subject to change, it's a hackathon!):
@@ -93,6 +103,13 @@ Our events Twitter is <a href="https://twitter.com/covhack">@CovHack</a>
 Please use `eduroam` or any of the `PHOENIX-NET-*` if you can!
 
 We are arranging support for connecting IoT devices the do not support WPA2-Enterprise.
+
+### Tools
+
+#### Student Developer Pack
+
+We highly recomend you get the <a href="https://education.github.com/pack">GitHub student developer pack!</a> if you
+haven't already. It includes $50 of free DigitalOcean credits for new users!
 
 ## Photos
 
