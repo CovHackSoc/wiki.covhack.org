@@ -46,7 +46,7 @@ Protection services and Beowulf are first aid trained.
 
 We are following the Hack Code of Conduct [1].
 
-If you would like to report a voliation, please talk one of the organisers in person, over discord
+If you would like to report a violation, please talk one of the organisers in person, over discord
 (@Organisers group), or via our email `hello@covhack.org`.
 
 ## Team
