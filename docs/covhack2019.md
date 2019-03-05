@@ -1,5 +1,15 @@
 # Welcome to CovHack 2019!
 
+Welcome to CovHack! We hope you build some great projects this weekend! Here is all you (probably) need to know!
+
+## First Hackathon?
+
+### What to Bring?
+
+* A laptop (or your gaming rig) and it's power supply
+* Toiletries
+* Hardware (BRING YOUR DANCEMAT!)
+
 ## Submissions
 
 Please upload your submissions to the devpost, avaliable here:
@@ -7,6 +17,10 @@ Please upload your submissions to the devpost, avaliable here:
 https://covhack19.devpost.com/
 
 Please do not start projects before 12:00 on the Saturday! You can have ideas beforehand, but don't write any code!
+
+## Judging
+
+## Prizes
 
 ## Schedule
 
@@ -36,11 +50,14 @@ Time  | Activity
 
 ## Side Events
 
-## Health an Safety
+We are running a small CTF, Werewolf and some workshops to help you make the most of the event!
 
-Please let us know if you have a medical condition that we need to be aware of!
+## Health and Safety
 
-Protection services and Beowulf are first aid trained.
+* Please let us know if you have a medical condition that we need to be aware of!
+* Protection services and Beowulf have first aid training.
+* Let an organiser know if you leave the building (picking up supplies, smoking, etc) so we can let you back in.
+* No soldering.
 
 ## Code of Conduct
 
@@ -54,12 +71,11 @@ If you would like to report a violation, please talk one of the organisers in pe
 Name          | Discord Username
 ------------- | -----------------------
 Beowulf Horn  | @LightbulbHackingExpert
-James Vickery | @jmsve
+James Vickery | @jmsv
 Callum Lacey  | @Callum
 Jonny Marsh   | @Jaunt
 Joshua D-K    | @HoopyFrood
-Tom Atkison   | @Banana Milk
-
+Tom Atkins    | @Banana Milk
 
 ## References
 
