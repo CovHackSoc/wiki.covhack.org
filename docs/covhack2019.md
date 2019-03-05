@@ -12,7 +12,7 @@ Welcome to CovHack! We hope you build some great projects this weekend! Here is 
 
 ## Submissions
 
-Please upload your submissions to the devpost, avaliable here:
+Please upload your submissions to the devpost, available here:
 
 https://covhack19.devpost.com/
 
@@ -45,13 +45,12 @@ Time  | Activity
 13:00 | Lunch
 14:00 | Presentations
 16:00 | Judging
-16:30 | Awards and Closing Cermony
+16:30 | Awards and Closing Ceremony
 17:00 | Closing
 
 ## Side Events
 
 We are running a small CTF, Werewolf and some workshops to help you make the most of the event!
-
 
 ## Discord
 
@@ -66,6 +65,14 @@ We have a handy bot called `Susan Inc Haylie TSR Vel Vickery`! They have many ha
 * Advice (`!advice`)
 
 Source is avaliable here [1]
+
+## Technical
+
+### WiFi
+
+Please use `eduroam` or any of the `PHOENIX-NET-*` if you can!
+
+We are arranging support for connecting IoT devices the do not support WPA2-Enterprise.
 
 ## Health and Safety
 
