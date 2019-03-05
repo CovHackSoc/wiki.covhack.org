@@ -24,8 +24,8 @@ Hacks normally run like so:
 
 ### What do I build?
 
-Hackathons are a great place to learn new technology! So we highly recomend picking up a new language or tool you aren't
-familar with!
+Hackathons are a great place to learn new technology! So we highly recommend picking up a new language or tool you aren't
+familiar with!
 
 Hardware projects are awesome and you will always get mad props for doing one!
 
@@ -91,6 +91,18 @@ Time  | Activity
 
 We are running a small CTF, Werewolf and some workshops to help you make the most of the event!
 
+### CTF
+
+We have a few security challenges available. They'll be shared in the `#ctf` channel!
+
+Purely exploitation based and with no frustrating steganography :)
+
+### Werewolf
+
+It's not a Hackathon unless you have a game of Werewolf going!
+
+If you aren't familiar with the game, check it out <a href="https://en.wikipedia.org/wiki/Mafia_(party_game)">here.</a>
+
 ## Communications
 
 ### Discord
@@ -126,7 +138,7 @@ We are arranging support for connecting IoT devices the do not support WPA2-Ente
 
 #### Student Developer Pack
 
-We highly recomend you get the <a href="https://education.github.com/pack">GitHub student developer pack</a> if you
+We highly recommend you get the <a href="https://education.github.com/pack">GitHub student developer pack</a> if you
 haven't already. It includes $50 of free DigitalOcean credits for new users!
 
 ## Photos
