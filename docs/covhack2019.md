@@ -103,6 +103,11 @@ It's not a Hackathon unless you have a game of Werewolf going!
 
 If you aren't familiar with the game, check it out <a href="https://en.wikipedia.org/wiki/Mafia_(party_game)">here.</a>
 
+
+### Workshops
+
+#### Learn Node.js like a pirate!
+
 ## Communications
 
 ### Discord
