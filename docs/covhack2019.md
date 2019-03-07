@@ -72,9 +72,11 @@ Time  | Activity
 11:00 | Opening Presentations
 12:00 | Hacking starts!
 13:00 | Lunch
-14:00 | Workshops start
+14:00 | Workshops Start with "Learn Node.js like a pirate!"
 19:00 | Dinner
-21:00 | Werewolf
+20:00 | Code in the Dark
+21:00 | Code Golf
+22:00 | Werewolf
 
 ### Sunday
 Time  | Activity
@@ -103,6 +105,13 @@ It's not a Hackathon unless you have a game of Werewolf going!
 
 If you aren't familiar with the game, check it out <a href="https://en.wikipedia.org/wiki/Mafia_(party_game)">here.</a>
 
+### Code Golf
+
+Who can write the shortest amount of Javascript to solve a problem?
+
+### Code in the Dark
+
+Recreate a website without previewing your code!
 
 ### Workshops
 
