@@ -57,7 +57,7 @@ Please do not start projects before 12:00 on the Saturday! You can have ideas be
 
 Build a robot out of Pizza boxes at 4am because your previous plan fell apart? Then this prize is for you!
 
-#### "Phoenix" Prize for Best Beginner Hack
+#### Prize for Best Beginner Hack
 
 Prize for teams comprised of 50% Beginners which create a great project!
 
