@@ -29,8 +29,6 @@ familiar with!
 
 Hardware projects are awesome and you will always get mad props for doing one!
 
-We keep an ideas list at <a href="https://ideas.covhack.org/">https://ideas.covhack.org/</a>
-
 Regarding how much you should be able to get done:
 
 * As a rule of thumb, you aren't going to get anything more done that what you'd be able to do in two normal work days.
@@ -124,17 +122,6 @@ Recreate a website without previewing your code!
 We're using Discord for communication during the event! You can use it ask for help with your project, post memes, etc.
 
 You can join by visiting <a href="https://discord.covhack.org/">discord.covhack.org</a>.
-
-#### Bot
-
-We have a handy bot called `Susan Inc Haylie TSR Vel Vickery`! They have many handy features like:
-
-* Adding ideas to ideas.covhack.org! (`!idea YOUR IDEA HERE`)
-* Cat pictures! (`!cat`)
-* Shibe pictures! (`!shibe`)
-* Advice (`!advice`)
-
-Source is available <a href="https://github.com/CovHackSoc/IdeaBot">here.</a>
 
 ### Social Media
 
