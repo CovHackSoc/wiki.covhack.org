@@ -123,6 +123,8 @@ Recreate a website without previewing your code!
 
 We're using Discord for communication during the event! You can use it ask for help with your project, post memes, etc.
 
+You can join by visiting <a href="https://discord.covhack.org/">discord.covhack.org</a>.
+
 #### Bot
 
 We have a handy bot called `Susan Inc Haylie TSR Vel Vickery`! They have many handy features like:
