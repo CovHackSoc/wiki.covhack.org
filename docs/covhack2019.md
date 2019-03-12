@@ -125,9 +125,9 @@ You can join by visiting <a href="https://discord.covhack.org/">discord.covhack.
 
 ### Social Media
 
-We're using the hashtag <a href="https://twitter.com/search?q=%23covhack19">#covhack19</a> for the event!
+We're using the hashtag <a href="https://twitter.com/search?q=%23covhack2019">#CovHack2019</a> for the event!
 
-Our events Twitter is <a href="https://twitter.com/covhack">@CovHack</a>
+Our events Twitter account is <a href="https://twitter.com/covhack">@CovHack</a>
 
 ## Technical
 
