@@ -85,13 +85,7 @@ Time  | Activity
 
 ## Side Events
 
-We are running a small CTF, Werewolf and some workshops to help you make the most of the event!
-
-### CTF
-
-We have a few security challenges available. They'll be shared in the `#ctf` channel!
-
-Purely exploitation based and with no frustrating steganography :)
+We are running Werewolf and some workshops to help you make the most of the event!
 
 ### Werewolf
 
