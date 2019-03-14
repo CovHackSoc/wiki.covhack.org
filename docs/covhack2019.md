@@ -17,14 +17,14 @@ If something isn't listed here, feel free to ask us in the `#questions` channel 
 Hacks normally run like so:
 
 * Opening ceremony with logistics information, etc
-* Team building if you want a team and don't already have one
-* 24 Hours of building a unique and wacky project
+* Team building (if you want a team and don't already have one)
+* 24 hours of building a unique and wacky project
 * Demoing it to everyone
 * Prizes!
 
 ### What do I build?
 
-Hackathons are a great place to learn new technology! So we highly recommend picking up a new language or tool you aren't
+Hackathons are a great place to learn new technology, so we highly recommend you pick up a new language or tool you aren't
 familiar with!
 
 Hardware projects are awesome and you will always get mad props for doing one!
@@ -63,10 +63,10 @@ Our schedule is the following (subject to change, it's a hackathon!):
 Time  | Activity
 ----- | ----------------------- 
 10:00 | Doors open
-11:00 | Opening Presentations
+11:00 | Opening presentations
 12:00 | Hacking starts!
 13:00 | Lunch
-14:00 | Workshops Start with "Learn Node.js like a pirate!"
+14:00 | Workshops start with "Learn Node.js like a pirate!"
 19:00 | Dinner
 20:00 | Code in the Dark
 21:00 | Code Golf
@@ -76,11 +76,11 @@ Time  | Activity
 Time  | Activity
 ----- | --------------------------
 7:00  | Breakfast
-12:00 | Hacking Ends
+12:00 | Hacking ends
 13:00 | Lunch
 14:00 | Presentations
 16:00 | Judging
-16:30 | Awards and Closing Ceremony
+16:30 | Awards and closing ceremony
 17:00 | Closing
 
 ## Side Events
@@ -138,7 +138,7 @@ haven't already. It includes $50 of free DigitalOcean credits for new users!
 
 We'll be taking photos throughout the event.
 
-Please do ask permission when taking photos!
+Please ask permission before taking photos!
 
 ## Health and Safety
 
