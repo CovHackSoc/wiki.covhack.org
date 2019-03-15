@@ -18,6 +18,8 @@ Please have a PDF of your ticket handy so we can sign people in quickly!
 
 You can find directions on google maps here: https://goo.gl/maps/dQpKZDhbsx12
 
+Our venue is open overnight. You can sleep here.
+
 ## First Hackathon?
 
 ### What to Bring?
