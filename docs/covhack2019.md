@@ -4,6 +4,20 @@ Welcome to CovHack! We hope you build some great projects this weekend! Here is 
 
 If something isn't listed here, feel free to ask us in the `#questions` channel on Discord!
 
+## Getting Here
+
+he event is running in the Engineering, Environment, & Computing Building (EEC).
+
+Our team will have a desk set up at the very front of the EEC, for signing everyone in. Registration will be open for attendees from 10am.
+
+Here is where you need to go:
+
+<img src="https://i.imgur.com/LLNhw76.png" />
+
+Please have a PDF of your ticket handy so we can sign people in quickly!
+
+You can find directions on google maps here: https://goo.gl/maps/dQpKZDhbsx12
+
 ## First Hackathon?
 
 ### What to Bring?
@@ -47,6 +61,8 @@ Please do not start projects before 12:00 on the Saturday! You can have ideas be
 
 ### Judging
 
+We're looking at projects that impress our technically, how polished they are and how much the team learned building it.
+
 ### Prizes
 
 #### First / Second / Third
@@ -54,6 +70,10 @@ Please do not start projects before 12:00 on the Saturday! You can have ideas be
 #### "Jeoffrey" Prize for Hacker Spirit
 
 Build a robot out of Pizza boxes at 4am because your previous plan fell apart? Then this prize is for you!
+
+#### Beginners Prize
+
+Best project made by teams with over 50% first time hackers!
 
 ## Schedule
 
@@ -125,7 +145,7 @@ Our events Twitter account is <a href="https://twitter.com/covhack">@CovHack</a>
 
 Please use `eduroam` or any of the `PHOENIX-NET-*` if you can!
 
-We are arranging support for connecting IoT devices the do not support WPA2-Enterprise.
+There is a network called `CovHack` if you need to contact IoT devices, ask any of the organisers if you need access.
 
 ### Tools
 
@@ -164,3 +184,5 @@ Callum Lacey  | @Callum
 Jonny Marsh   | @Jaunt
 Joshua D-K    | @HoopyFrood
 Tom Atkins    | @Banana Milk
+
+We'll be wearing black lanyards with blue cards in them! (Along with the Volunteers and sponsors!)
