@@ -152,7 +152,7 @@ Please ask permission before taking photos!
 We are following the <a href="https://hackcodeofconduct.org/">Hack Code of Conduct.</a>
 
 If you would like to report a violation, please talk one of the organisers in person, over discord
-(@Organisers group), or via our email `hello@covhack.org`.
+(@Organisers group), or via our email `incidents@covhack.org`.
 
 ## Team
 
